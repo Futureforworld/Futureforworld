@@ -1,7 +1,7 @@
 ## Fernando Garcia Farias
 📍 São Paulo, Brasil
 📞 (11) 95367-2674 | 📧 fegarciafarias@gmail.com
-🔗 LinkedIn | 🔗 GitHub
+🔗 linkedin.com/in/fernando-garcia-farias-b7455215b | 🔗 https://github.com/Futureforworld 
 ________________________________________
 💻 PERFIL PROFISSIONAL
 Desenvolvedor Full Stack em transição de carreira, com experiência consolidada em gestão comercial e suporte técnico. Atualmente no último semestre do curso de Desenvolvimento Full Stack, adquirindo competências em Java, JavaScript, desenvolvimento web e mobile, integração de sistemas e segurança de software. Familiarizado com metodologias ágeis, recursos em nuvem e desenvolvimento para dispositivos móveis. Busco minha primeira oportunidade na área de tecnologia, onde posso aplicar minha experiência em resolução de problemas, liderança e atendimento ao cliente para contribuir de forma estratégica em projetos inovadores.
