@@ -55,6 +55,7 @@ ________________________________________
 📌 PROJETOS & PORTFÓLIO
 
 🔹 GitHub: github.com/Futureforworld
+
 🔹 Projetos Destacados:
 
 •	[Projeto 1] → Aplicação web para gerenciamento de tarefas (React + Node.js)
@@ -63,7 +64,9 @@ ________________________________________
 📢 DIFERENCIAIS
 
 ✔️ Transição de carreira com experiência sólida em gestão e atendimento.
+
 ✔️ Forte capacidade de comunicação e liderança.
+
 ✔️ Aprendizado contínuo e adaptação a novas tecnologias.
 
 
