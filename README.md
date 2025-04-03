@@ -1,10 +1,13 @@
 ## 
 
 Fernando Garcia Farias
+
 📍 São Paulo, Brasil
+
 📞 (11) 95367-2674 | 📧 fegarciafarias@gmail.com
 
 🔗 https://www.linkedin.com/in/fernando-garcia-farias-b7455215b/details/experience/
+
 🔗https://github.com/Futureforworld
 
 ________________________________________
