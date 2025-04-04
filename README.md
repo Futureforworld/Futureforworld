@@ -32,7 +32,7 @@ ________________________________________
 ________________________________________
 🎓 FORMAÇÃO ACADÊMICA
 
-  •	Bacharelado em Programação de Computadores - Geral (2023 - 2025) | Estácio
+  •	Graduação Tecnológica em Programação de Computadores - Geral (2023 - 2025) | Estácio
 
   •	Curso Técnico Integrado em Administração de Empresas (2009 - 2011) | ETEC
 
