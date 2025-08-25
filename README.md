@@ -13,8 +13,8 @@ Fernando Garcia Farias
 ________________________________________
 💻 PERFIL PROFISSIONAL
 
-Desenvolvedor Full Stack em transição de carreira, com experiência consolidada em gestão comercial e suporte técnico. Atualmente no último semestre do curso de Desenvolvimento Full Stack, adquirindo competências em Java, Javascript, desenvolvimento web e mobile, integração de sistemas e segurança de software. Familiarizado com metodologias ágeis, recursos em nuvem e desenvolvimento para dispositivos móveis.
-Busco minha primeira oportunidade na área de tecnologia, onde posso aplicar minha experiência em resolução de problemas, liderança e atendimento ao cliente para contribuir de forma estratégica em projetos inovadores.
+Graduado em Tecnologia Full Stack e cursando Pós-Graduação Lato Sensu em Gestão Estratégica da Tecnologia da Informação. B
+usco aplicar conhecimentos em desenvolvimento de software, dados e gestão estratégica em minha trajetória profissional, com foco em aprendizado contínuo e geração de valor.
 ________________________________________
 🚀 HABILIDADES TÉCNICAS
 
