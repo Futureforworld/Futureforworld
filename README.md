@@ -58,14 +58,4 @@ Tenho experiência prática em desenvolvimento **mobile, web e cloud**, criando 
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
----
-
-## 📌 Observações
-
-- Todos os links acima apontam para repositórios **públicos e ativos**.  
-- Este portfólio também será destacado no meu perfil do **LinkedIn**.  
-- Para sugestões ou feedback, entre em contato!
-
----
-
 
