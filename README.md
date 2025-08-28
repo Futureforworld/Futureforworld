@@ -11,12 +11,12 @@ Graduado em Desenvolvimento Full Stack (2025) e cursando Pós-graduação em Ges
 **Cloud & DevOps:** Azure (básico), Docker, CI/CD
 
 ## Projetos em destaque
-- **Login Page (Angular 17)** – tela responsiva com validação, testes e build CI | [repo](https://github.com/Futureforworld/login-page) 
-- **Site de Receitas (Front)** – UI responsiva; (quando publicar API, linkar aqui) | [repo](https://github.com/Futureforworld/site-receitas) | *demo* (adicione link)
-- **Servidor/Cliente com Sockets (Java + Threads + JPA)** | [repo](https://github.com/Futureforworld/M5)
-- **Modelagem & SQL Server (T-SQL)** | [repo](https://github.com/Futureforworld/Modelagem_implementa-o_SQL-Server)
-- **ListView em Flutter** | [repo](https://github.com/Futureforworld/Widget.ListView_Flutter)
-- **IoT Hub no Azure (lab)** – *segredos limpos e README revisado* | [repo](https://github.com/Futureforworld/Vamos-interligar-as-coisas-com-a-nuvem)
+- **Login Page (Angular 17)** – tela responsiva com validação, testes e build CI | [link](https://github.com/Futureforworld/login-page) 
+- **Site de Receitas (Front)** – UI responsiva; (quando publicar API, linkar aqui) | [link](https://github.com/Futureforworld/site-receitas) 
+- **Servidor/Cliente com Sockets (Java + Threads + JPA)** | [link](https://github.com/Futureforworld/M5)
+- **Modelagem & SQL Server (T-SQL)** | [link](https://github.com/Futureforworld/Modelagem_implementa-o_SQL-Server)
+- **ListView em Flutter** | [link](https://github.com/Futureforworld/Widget.ListView_Flutter)
+- **IoT Hub no Azure (lab)** – *segredos limpos e README revisado* | [link](https://github.com/Futureforworld/Vamos-interligar-as-coisas-com-a-nuvem)
 
 ## Formação
 - Tecnólogo em Desenvolvimento Full Stack – **concluído em 2025**
