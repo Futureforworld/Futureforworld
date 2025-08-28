@@ -13,8 +13,8 @@ Fernando Garcia Farias
 ________________________________________
 💻 PERFIL PROFISSIONAL
 
-Graduado em Tecnologia Full Stack e cursando Pós-Graduação Lato Sensu em Gestão Estratégica da Tecnologia da Informação. B
-usco aplicar conhecimentos em desenvolvimento de software, dados e gestão estratégica em minha trajetória profissional, com foco em aprendizado contínuo e geração de valor.
+Graduado em Tecnologia Full Stack e cursando Pós-Graduação Lato Sensu em Gestão Estratégica da Tecnologia da Informação. Busco aplicar conhecimentos em desenvolvimento de software, 
+dados e gestão estratégica em minha trajetória profissional, com foco em aprendizado contínuo e geração de valor.
 ________________________________________
 🚀 HABILIDADES TÉCNICAS
 
