@@ -43,10 +43,5 @@ Tenho experiência prática em desenvolvimento mobile, web e cloud, criando solu
 - **[livro-angular](https://github.com/Futureforworld/livro-angular)**  
   Implementação de front-end web com base no framework Angular, utilizando serviços e componentes em TypeScript.
 
----
 
-## 📌 Observações
 
-- Todos os links acima apontam para os repositórios corretos no GitHub.  
-- Caso algum link não funcione, verifique se o repositório está público.  
-- Em breve, esses projetos também serão destacados no meu perfil do LinkedIn.
