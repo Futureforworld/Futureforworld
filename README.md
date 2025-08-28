@@ -44,4 +44,3 @@ Tenho experiência prática em desenvolvimento mobile, web e cloud, criando solu
   Implementação de front-end web com base no framework Angular, utilizando serviços e componentes em TypeScript.
 
 
-
