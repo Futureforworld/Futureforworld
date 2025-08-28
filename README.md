@@ -64,4 +64,4 @@ Busco desafios em **desenvolvimento de software**, aplicando meus conhecimentos 
 
 - LinkedIn: [https://www.linkedin.com/in/fernandogarciafarias](https://www.linkedin.com/in/fernandogarciafarias)  
 - GitHub: [https://github.com/Futureforworld](https://github.com/Futureforworld)  
-- E-mail: fernando.g.farias@gmail.com
+- E-mail: fegarciafarias@gmail.com
