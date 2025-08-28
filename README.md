@@ -3,7 +3,7 @@
 Sou Desenvolvedor Full Stack, com graduação concluída em Desenvolvimento Full Stack (2025) e atualmente cursando Pós-graduação em Gestão Estratégica de TI (2025).
 
 Tenho desenvolvido projetos acadêmicos e de aprendizado prático em web, mobile e cloud, utilizando tecnologias como Java, JavaScript, React Native, Flutter, Android Studio e Azure, aplicando meu aprendizado para criar soluções funcionais e inovadoras.
----
+
 
 ## 🛠️ Projetos
 
