@@ -1,9 +1,8 @@
 # 🚀 Portfólio de Projetos · Fernando Garcia Farias
 
-Sou Desenvolvedor Full Stack, com experiência consolidada em gestão comercial e suporte técnico. Concluí a graduação em Desenvolvimento Full Stack (2025) e atualmente curso Pós-graduação em Gestão Estratégica de TI (2025).
+Sou Desenvolvedor Full Stack, com graduação concluída em Desenvolvimento Full Stack (2025) e atualmente cursando Pós-graduação em Gestão Estratégica de TI (2025).
 
-Venho desenvolvendo projetos práticos e acadêmicos em web, mobile e cloud, aplicando tecnologias modernas como Java, JavaScript, React Native, Flutter, Android Studio e Azure. Esses projetos demonstram meu aprendizado contínuo e minha capacidade de criar soluções funcionais em diferentes contextos.
-
+Tenho desenvolvido projetos acadêmicos e de aprendizado prático em web, mobile e cloud, utilizando tecnologias como Java, JavaScript, React Native, Flutter, Android Studio e Azure, aplicando meu aprendizado para criar soluções funcionais e inovadoras.
 ---
 
 ## 🛠️ Projetos
