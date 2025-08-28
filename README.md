@@ -48,6 +48,7 @@ Azure Fundamentals
 Business Intelligence, Data Warehouse & ETL
 
 💼 Projetos e Experiência
+
 1️⃣ MyNewProject – App de Cadastro de Fornecedores
 
 Stack: React Native, Firebase
