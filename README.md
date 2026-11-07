@@ -129,11 +129,10 @@ Projetos utilizando HTML5, CSS3 e JavaScript.
 **Fernando Garcia Farias | Desenvolvimento de soluções, tecnologia e inovação.**
 
 <!-- AUTO-PROJECTS:START -->
-##  Projetos com demonstração online
+## Projetos com demonstração online
 
 Projetos com endereço de demonstração validado.
 
-- **[index-amazon.html](https://futureforworld.github.io/index-amazon.html/)**  arquivo HTML pronto chamado index-amazon.html com um design pensado para destacar "Amazon"  [Código-fonte](https://github.com/Futureforworld/index-amazon.html)  HTML
 - **[links-parceiros](https://futureforworld.github.io/links-parceiros/)**  Repositório público no GitHub.  [Código-fonte](https://github.com/Futureforworld/links-parceiros)  HTML
 - **[login-page](https://futureforworld.github.io/login-page/)**  🌐 Frontend – Aplicação de Login com Angular 17  [Código-fonte](https://github.com/Futureforworld/login-page)  TypeScript
 - **[aplicativo_Flutter](https://futureforworld.github.io/aplicativo_Flutter/)**  📱 Aplicativo Completo com Estrutura Básica do Flutter  [Código-fonte](https://github.com/Futureforworld/aplicativo_Flutter)  Tecnologia não informada
@@ -143,14 +142,12 @@ Projetos com endereço de demonstração validado.
 - **[livro-servidor](https://futureforworld.github.io/livro-servidor/)**  Colocando o framework para acessar um banco  [Código-fonte](https://github.com/Futureforworld/livro-servidor)  JavaScript
 - **[formulario.html.css](https://futureforworld.github.io/formulario.html.css/)**  🧾 Exemplos de Formulários com HTML e CSS  [Código-fonte](https://github.com/Futureforworld/formulario.html.css)  HTML
 
-##  Outros repositórios públicos
+## Outros repositórios públicos
 
 Projetos disponíveis para consulta do código-fonte.
 
 - [MP-N4](https://github.com/Futureforworld/MP-N4)  🧠 Incorporando Lógica e Inteligência à Aplicação  Jupyter Notebook
 - [Miss-o-Pr-tica_N3](https://github.com/Futureforworld/Miss-o-Pr-tica_N3)  🗂️ Tratamento de Grandes Volumes de Dados  Tecnologia não informada
-- [MatheusAlvarez](https://github.com/Futureforworld/MatheusAlvarez)  My GitHub Profile Settings/General Information  Tecnologia não informada
-- [desafio-dev-fullstack](https://github.com/Futureforworld/desafio-dev-fullstack)  Repositório público no GitHub.  TypeScript
 - [M-quina_Virtual-VM-_Azure](https://github.com/Futureforworld/M-quina_Virtual-VM-_Azure)  ☁️ Criando e Gerenciando um Hub IoT no Azure  Tecnologia não informada
 - [Miss-o_Pratica_Nivel_3_MP](https://github.com/Futureforworld/Miss-o_Pratica_Nivel_3_MP)  📱 Lidando com Sensores em Dispositivos Móveis  Tecnologia não informada
 - [Miss-o_Pratica_Nivel_3](https://github.com/Futureforworld/Miss-o_Pratica_Nivel_3)  📱 Implementação de Acesso a Sensores em Dispositivos Android  Tecnologia não informada
