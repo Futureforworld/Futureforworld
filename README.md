@@ -23,40 +23,54 @@ Plataforma de gerenciamento centralizado de câmeras e dispositivos de videomoni
 
 🌐 [Demonstração online](https://futureforworld.github.io/MultiCam/)
 
-### 2. MP_N5 — Segurança de Software
+### 2. Login Page - Interface de Autenticação
+
+**Aplicação web | Angular 17**
+
+[![Login Page](assets/screenshots/login-page.jpg)](https://futureforworld.github.io/login-page/)
+
+Interface responsiva de autenticação com validação de formulários, campos de e-mail e senha e visualização de senha.
+
+**Tecnologias:** Angular 17, TypeScript, HTML5, SCSS.
+
+**Código-fonte:** https://github.com/Futureforworld/login-page
+
+**Demonstração online:** https://futureforworld.github.io/login-page/
+
+### 3. MP_N5 — Segurança de Software
 
 Projeto acadêmico voltado à segurança e às boas práticas de desenvolvimento.
 
 🔗 [Acessar projeto](https://github.com/Futureforworld/MP_N5)
 
-### 3. M5 — Comunicação entre Clientes e Servidores
+### 4. M5 — Comunicação entre Clientes e Servidores
 
 Desenvolvimento envolvendo sockets, threads e persistência com JPA.
 
 🔗 [Acessar projeto](https://github.com/Futureforworld/M5)  
 🌐 [Demonstração online](https://futureforworld.github.io/M5/)
 
-### 4. Angular e TypeScript
+### 5. Angular e TypeScript
 
 Desenvolvimento de aplicações web utilizando componentes, serviços e arquitetura Angular.
 
 🔗 [Livro Angular](https://github.com/Futureforworld/livro-angular)
 
-### 5. Sistema de Persistência
+### 6. Sistema de Persistência
 
 Modelagem de entidades e integração com mecanismos de persistência de dados.
 
 🔗 [Acessar projeto](https://github.com/Futureforworld/Entidades_Sistema_de_Persistencia)  
 🌐 [Demonstração online](https://futureforworld.github.io/Entidades_Sistema_de_Persistencia/)
 
-### 6. Azure IoT — Integração com a Nuvem
+### 7. Azure IoT — Integração com a Nuvem
 
 Projeto de integração envolvendo sensores de temperatura e umidade e visualização de dados.
 
 🔗 [Acessar projeto](https://github.com/Futureforworld/Vamos-interligar-as-coisas-com-a-nuvem)  
 🌐 [Demonstração online](https://futureforworld.github.io/Vamos-interligar-as-coisas-com-a-nuvem/)
 
-### 7. Desenvolvimento Mobile — Flutter
+### 8. Desenvolvimento Mobile — Flutter
 
 Aplicações e experimentos envolvendo widgets, layouts e interfaces mobile.
 
@@ -64,7 +78,7 @@ Aplicações e experimentos envolvendo widgets, layouts e interfaces mobile.
 
 🔗 [Layouts e Widgets](https://github.com/Futureforworld/Layouts_Widgets)
 
-### 8. Desenvolvimento Web
+### 9. Desenvolvimento Web
 
 Projetos utilizando HTML5, CSS3 e JavaScript.
 
