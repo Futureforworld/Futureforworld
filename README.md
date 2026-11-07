@@ -17,7 +17,7 @@ Plataforma de gerenciamento centralizado de câmeras e dispositivos de videomoni
 
 Tecnologias: JavaScript, Node.js, Fastify, SQLite, JWT.
 
-🔗 [Acessar projeto MultiCam](https://github.com/Futureforworld/MultiCam)
+🔗 [Acessar projeto MultiCam](https://github.com/Futureforworld/MultiCam)   [Demonstração online](https://futureforworld.github.io/MultiCam/)
 
 ### 2. MP_N5 — Segurança de Software
 Projeto acadêmico voltado à segurança e às boas práticas de desenvolvimento.
@@ -27,7 +27,7 @@ Projeto acadêmico voltado à segurança e às boas práticas de desenvolvimento
 ### 3. M5 — Comunicação entre Clientes e Servidores
 Desenvolvimento envolvendo sockets, threads e persistência com JPA.
 
-🔗 [Acessar projeto](https://github.com/Futureforworld/M5)
+🔗 [Acessar projeto](https://github.com/Futureforworld/M5)   [Demonstração online](https://futureforworld.github.io/M5/)
 
 ### 4. Angular e TypeScript
 Desenvolvimento de aplicações web utilizando componentes, serviços e arquitetura Angular.
@@ -37,12 +37,12 @@ Desenvolvimento de aplicações web utilizando componentes, serviços e arquitet
 ### 5. Sistema de Persistência
 Modelagem de entidades e integração com mecanismos de persistência de dados.
 
-🔗 [Acessar projeto](https://github.com/Futureforworld/Entidades_Sistema_de_Persistencia)
+🔗 [Acessar projeto](https://github.com/Futureforworld/Entidades_Sistema_de_Persistencia)   [Demonstração online](https://futureforworld.github.io/Entidades_Sistema_de_Persistencia/)
 
 ### 6. Azure IoT — Integração com a Nuvem
 Projeto de integração envolvendo sensores de temperatura e umidade e visualização de dados.
 
-🔗 [Acessar projeto](https://github.com/Futureforworld/Vamos-interligar-as-coisas-com-a-nuvem)
+🔗 [Acessar projeto](https://github.com/Futureforworld/Vamos-interligar-as-coisas-com-a-nuvem)   [Demonstração online](https://futureforworld.github.io/Vamos-interligar-as-coisas-com-a-nuvem/)
 
 ### 7. Desenvolvimento Mobile — Flutter
 Aplicações e experimentos envolvendo widgets, layouts e interfaces mobile.
@@ -56,7 +56,7 @@ Projetos utilizando HTML5, CSS3 e JavaScript.
 
 🔗 [Meu primeiro framework](https://github.com/Futureforworld/Meu-primeiro-framework)
 
-🔗 [Site de receitas](https://github.com/Futureforworld/site-receitas)
+🔗 [Site de receitas](https://github.com/Futureforworld/site-receitas)   [Demonstração online](https://futureforworld.github.io/site-receitas/)
 
 ---
 
@@ -131,38 +131,30 @@ Projetos utilizando HTML5, CSS3 e JavaScript.
 <!-- AUTO-PROJECTS:START -->
 ##  Projetos com demonstração online
 
-Projetos com site ou demonstração publicada.
+Projetos com endereço de demonstração validado.
 
-- **[MultiCam](https://futureforworld.github.io/MultiCam/)**  Plataforma centralizada para gerenciamento de câmeras e dispositivos de videomonitoramento [Código-fonte](https://github.com/Futureforworld/MultiCam)  JavaScript
-- **[index-amazon.html](https://futureforworld.github.io/index-amazon.html/)**  arquivo HTML pronto chamado index-amazon.html com um design pensado para destacar "Amazon" [Código-fonte](https://github.com/Futureforworld/index-amazon.html)  HTML
-- **[links-parceiros](https://futureforworld.github.io/links-parceiros/)**  Repositório público no GitHub. [Código-fonte](https://github.com/Futureforworld/links-parceiros)  HTML
-- **[MatheusAlvarez](https://github.com/MatheusAlvarez)**  My GitHub Profile Settings/General Information [Código-fonte](https://github.com/Futureforworld/MatheusAlvarez)  Tecnologia não informada
-- **[login-page](https://futureforworld.github.io/login-page/)**  🌐 Frontend – Aplicação de Login com Angular 17 [Código-fonte](https://github.com/Futureforworld/login-page)  TypeScript
-- **[desafio-dev-fullstack](https://futureforworld.github.io/desafio-dev-fullstack/)**  Repositório público no GitHub. [Código-fonte](https://github.com/Futureforworld/desafio-dev-fullstack)  TypeScript
-- **[Vamos-interligar-as-coisas-com-a-nuvem](https://futureforworld.github.io/Vamos-interligar-as-coisas-com-a-nuvem/)**  ☁️ Criando e Gerenciando um Hub IoT no Azure [Código-fonte](https://github.com/Futureforworld/Vamos-interligar-as-coisas-com-a-nuvem)  JavaScript
-- **[aplicativo_Flutter](https://futureforworld.github.io/aplicativo_Flutter/)**  📱 Aplicativo Completo com Estrutura Básica do Flutter [Código-fonte](https://github.com/Futureforworld/aplicativo_Flutter)  Tecnologia não informada
-- **[Widgets_Flutter](https://futureforworld.github.io/Widgets_Flutter/)**  🧩 Utilização de Widgets Flutter Básicos — MaterialApp, Scaffold e AppBar [Código-fonte](https://github.com/Futureforworld/Widgets_Flutter)  Tecnologia não informada
-- **[Microatividade-1](https://futureforworld.github.io/Microatividade-1/)**  🧠 Adicionando Interatividade com React Native [Código-fonte](https://github.com/Futureforworld/Microatividade-1)  TypeScript
-- **[M5](https://futureforworld.github.io/M5/)**  🔌 Servidor e Cliente com Sockets, Threads e JPA [Código-fonte](https://github.com/Futureforworld/M5)  Java
-- **[Modelagem_implementa-o_SQL-Server](https://futureforworld.github.io/Modelagem_implementa-o_SQL-Server/)**  🗃️ Modelagem e Implementação de Banco de Dados com SQL Server [Código-fonte](https://github.com/Futureforworld/Modelagem_implementa-o_SQL-Server)  TSQL
-- **[Entidades_Sistema_de_Persistencia](https://futureforworld.github.io/Entidades_Sistema_de_Persistencia/)**  📝 Cadastro de Clientes em Modo Texto com Persistência em Arquivos (Java) [Código-fonte](https://github.com/Futureforworld/Entidades_Sistema_de_Persistencia)  Java
-- **[livro-servidor](https://futureforworld.github.io/livro-servidor/)**  Colocando o framework para acessar um banco [Código-fonte](https://github.com/Futureforworld/livro-servidor)  JavaScript
-- **[Meu-primeiro-framework](https://futureforworld.github.io/Meu-primeiro-framework/)**  Exemplos.Javascript [Código-fonte](https://github.com/Futureforworld/Meu-primeiro-framework)  JavaScript
-- **[formulario.html.css](https://futureforworld.github.io/formulario.html.css/)**  🧾 Exemplos de Formulários com HTML e CSS [Código-fonte](https://github.com/Futureforworld/formulario.html.css)  HTML
+- **[index-amazon.html](https://futureforworld.github.io/index-amazon.html/)**  arquivo HTML pronto chamado index-amazon.html com um design pensado para destacar "Amazon"  [Código-fonte](https://github.com/Futureforworld/index-amazon.html)  HTML
+- **[links-parceiros](https://futureforworld.github.io/links-parceiros/)**  Repositório público no GitHub.  [Código-fonte](https://github.com/Futureforworld/links-parceiros)  HTML
+- **[login-page](https://futureforworld.github.io/login-page/)**  🌐 Frontend – Aplicação de Login com Angular 17  [Código-fonte](https://github.com/Futureforworld/login-page)  TypeScript
+- **[aplicativo_Flutter](https://futureforworld.github.io/aplicativo_Flutter/)**  📱 Aplicativo Completo com Estrutura Básica do Flutter  [Código-fonte](https://github.com/Futureforworld/aplicativo_Flutter)  Tecnologia não informada
+- **[Widgets_Flutter](https://futureforworld.github.io/Widgets_Flutter/)**  🧩 Utilização de Widgets Flutter Básicos — MaterialApp, Scaffold e AppBar  [Código-fonte](https://github.com/Futureforworld/Widgets_Flutter)  Tecnologia não informada
+- **[Microatividade-1](https://futureforworld.github.io/Microatividade-1/)**  🧠 Adicionando Interatividade com React Native  [Código-fonte](https://github.com/Futureforworld/Microatividade-1)  TypeScript
+- **[Modelagem_implementa-o_SQL-Server](https://futureforworld.github.io/Modelagem_implementa-o_SQL-Server/)**  🗃️ Modelagem e Implementação de Banco de Dados com SQL Server  [Código-fonte](https://github.com/Futureforworld/Modelagem_implementa-o_SQL-Server)  TSQL
+- **[livro-servidor](https://futureforworld.github.io/livro-servidor/)**  Colocando o framework para acessar um banco  [Código-fonte](https://github.com/Futureforworld/livro-servidor)  JavaScript
+- **[formulario.html.css](https://futureforworld.github.io/formulario.html.css/)**  🧾 Exemplos de Formulários com HTML e CSS  [Código-fonte](https://github.com/Futureforworld/formulario.html.css)  HTML
 
 ##  Outros repositórios públicos
 
 Projetos disponíveis para consulta do código-fonte.
 
-- [MP_N5](https://github.com/Futureforworld/MP_N5)  🔒 A Importância da Segurança em Software  Tecnologia não informada
 - [MP-N4](https://github.com/Futureforworld/MP-N4)  🧠 Incorporando Lógica e Inteligência à Aplicação  Jupyter Notebook
 - [Miss-o-Pr-tica_N3](https://github.com/Futureforworld/Miss-o-Pr-tica_N3)  🗂️ Tratamento de Grandes Volumes de Dados  Tecnologia não informada
+- [MatheusAlvarez](https://github.com/Futureforworld/MatheusAlvarez)  My GitHub Profile Settings/General Information  Tecnologia não informada
+- [desafio-dev-fullstack](https://github.com/Futureforworld/desafio-dev-fullstack)  Repositório público no GitHub.  TypeScript
 - [M-quina_Virtual-VM-_Azure](https://github.com/Futureforworld/M-quina_Virtual-VM-_Azure)  ☁️ Criando e Gerenciando um Hub IoT no Azure  Tecnologia não informada
 - [Miss-o_Pratica_Nivel_3_MP](https://github.com/Futureforworld/Miss-o_Pratica_Nivel_3_MP)  📱 Lidando com Sensores em Dispositivos Móveis  Tecnologia não informada
 - [Miss-o_Pratica_Nivel_3](https://github.com/Futureforworld/Miss-o_Pratica_Nivel_3)  📱 Implementação de Acesso a Sensores em Dispositivos Android  Tecnologia não informada
-- [widget-Stack](https://github.com/Futureforworld/widget-Stack)  🖼️ Criação de Sobreposições de Widgets em Aplicativo Flutter  Tecnologia não informada
 - [Widget.ListView_Flutter](https://github.com/Futureforworld/Widget.ListView_Flutter)  📜 Utilização do Widget ListView em Flutter  Tecnologia não informada
-- [Layouts_Widgets](https://github.com/Futureforworld/Layouts_Widgets)  🧱 Criação de Layouts Básicos com os Widgets no Flutter  Tecnologia não informada
 - [preparando_ambiente](https://github.com/Futureforworld/preparando_ambiente)  🛠️ Instalação e Configuração do Flutter SDK e Ambiente de Desenvolvimento  Tecnologia não informada
 - [Microatividade5](https://github.com/Futureforworld/Microatividade5)  🖼️ Emprego de Imagens em Aplicativos React Native  Tecnologia não informada
 - [Microatividade4](https://github.com/Futureforworld/Microatividade4)  📋 Criando o Visualizador de Listas  Tecnologia não informada
